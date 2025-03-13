@@ -14,7 +14,7 @@ TOPIC = 'weather-topic'
 INTERVAL = 60  # Mengirim data setiap 60 detik
 
 # API Key WeatherAPI (gantilah dengan API key Anda)
-API_KEY = "9dfe6ed2e18a484083c53754251303"
+API_KEY = "ADD YOUR API KEY"
 LOCATION = "Jakarta"  # Lokasi yang akan diambil datanya
 
 # Fungsi untuk mengambil data cuaca dari WeatherAPI
